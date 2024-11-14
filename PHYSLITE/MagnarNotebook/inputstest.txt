@@ -1,0 +1,4 @@
+NmassPoints=1;  Nchannels=2;  intLum=26.0714;  intLumUncertainty=0.5735708;
+mass=125;  threshold=252;  theoryCrossSection=74.276 ;
+channel="4E";   efficiency=0.011931466494525509;  efficiencyUncertainty=0.002386293298905102;  background=6.86571261029315;  backgroundUncertainty=2.222980093459385;  Nobs=14;
+channel="4M";   efficiency=0.07210864891611156;  efficiencyUncertainty=0.014421729783222313;  background=41.4934124318837;  backgroundUncertainty=0.9526431280958818;  Nobs=64;

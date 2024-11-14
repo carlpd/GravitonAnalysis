@@ -1,0 +1,6 @@
+NmassPoints=1;  Nchannels=3;  intLum=29049.3;  intLumUncertainty=639.0845999999999;
+mass=125;  threshold=1;  theoryCrossSection=74.276 ;
+channel="4E";  efficiency=0.03597546810172375;  efficiencyUncertainty=9.121782819697899e-05;  background=22.27604651170145;  backgroundUncertainty=3.532474719858844;  Nobs=18 ;
+channel="4M";  efficiency=0.07468642915191577;  efficiencyUncertainty=0.00013199936443515907;  background=17.443037533500448;  backgroundUncertainty=0.710918862664258;  Nobs=34 ;
+channel="EEMM";  efficiency=0.10354357442950801;  efficiencyUncertainty=0.00015994832002381144;  background=21.726491701588753;  backgroundUncertainty=1.1139605713337377;  Nobs=49 ;
+xtitle="G* mass[GeV]"; ytitle="Cross section [fb]"; yrange=[0.05, 5000.0]; 
